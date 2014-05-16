@@ -28,7 +28,5 @@ news
 
 6、因11月9日我要参加软考网络管理员考试，现在尚未复习完成，我没有多余精力再花在新闻发布系统中。
 
-7、个人网站http://www.eyas.cc
-   个人简历网站：http://me.eyas.cc
-
+7、个人网站http://eyas.info
 8、请相信我完全没有复制demos中的blog的viewc以外的代码
